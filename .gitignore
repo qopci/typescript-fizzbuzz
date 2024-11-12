@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript build files
+dist/
+build/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
